@@ -16,6 +16,7 @@
 ##       Affects DB:  Yes
 ##
 ##            Notes:  If you have suggestions let me know
+##                    current list can be found here https://github.com/kierownik/fluxbb-censor-words/blob/master/install_mod.php#L27
 ##
 ##       DISCLAIMER:  Please note that "mods" are not officially supported by
 ##                    FluxBB. Installation of this modification is done at 
