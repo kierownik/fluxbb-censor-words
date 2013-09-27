@@ -7,16 +7,18 @@
 ##     Release date:  2013-09-DD
 ##           Author:  Daniel Rokven (rokven@gmail.com)
 ##
-##      Description:  This mod adds alot of banned words
+##      Description:  This mod adds alot of banned words and variation of them
+##                    to you censoring table
 ##
 ##   Repository URL:  http://fluxbb.org/resources/mods/xxx
 ##
 ##   Affected files:  none
 ##
-##       Affects DB:  Yes
+##       Affects DB:  Yes, adds the censor words to the $db->prefix(censoring)
+##                    table
 ##
 ##            Notes:  If you have suggestions let me know
-##                    current list can be found here https://github.com/kierownik/fluxbb-censor-words/blob/master/install_mod.php#L27
+##                    current list can be found here http://bit.ly/176OI16
 ##
 ##       DISCLAIMER:  Please note that "mods" are not officially supported by
 ##                    FluxBB. Installation of this modification is done at 
@@ -24,7 +26,6 @@
 ##                    all applicable files before proceeding.
 ##
 ##
-
 
 #
 #---------[ 1. UPLOAD ]-------------------------------------------------------

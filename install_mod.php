@@ -729,6 +729,7 @@ $banned_words = array(
   't3sticl3*',
   'titt*',
   'tits',
+  'tit$',
   'twat*',
   'tw@t*',
   'vagina',
